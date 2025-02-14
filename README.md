@@ -21,11 +21,13 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rehmatcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmatcodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="rehmatcodes" /></p>
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rehmatcodemaster" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatcodes&theme=dark&hide_border=false" alt="rehmatcodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="rehmatcodemaster" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatcodemaster&theme=dark&hide_border=false" alt="rehmatcodemaster" /></p>
 
 
 ## 🏆 GitHub Trophies
