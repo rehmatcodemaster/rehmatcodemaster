@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 **About Me (Neon Glow Mode)**
+## 🔥 **About Me**
 
 🌐 **Front-End Developer** | React.js Specialist  
 🎓 **5th Semester Software Engineering Student**  
@@ -42,7 +42,7 @@
 
 ---
 
-# 💻 **Tech Stack (Neon Badges)**
+# 💻 **Tech Stack**
 
 ### 🎨 **Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5722)
@@ -75,7 +75,7 @@
 
 ---
 
-# 📊 **GitHub Analytics (Neon Mode)**
+# 📊 **GitHub Analytics**
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
@@ -88,7 +88,7 @@
 
 ---
 
-# 🏆 **GitHub Trophies (Neon Glow)**  
+# 🏆 **GitHub Trophies**  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rehmatcodemaster&theme=onestar&no-frame=true&margin-w=15" />
 </p>
