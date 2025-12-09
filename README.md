@@ -28,11 +28,14 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rehmatcodemaster" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="rehmatcodemaster" /></p>
+![Rehmat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatcodemaster&theme=dark&hide_border=false" alt="rehmatcodemaster" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rehmatcodemaster&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodemaster&layout=compact&theme=tokyonight)
+
 
 
 ## 🏆 GitHub Trophies
