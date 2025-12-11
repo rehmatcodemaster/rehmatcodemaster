@@ -29,16 +29,18 @@
 
 ## 🌐 **Connect With Me**
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61550099472882">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00F0FF" />
-</a>
-<a href="https://www.instagram.com/profile.php?id=61550099472882">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00E0" />
-</a>
-<a href="https://linkedin.com/in/rehmatcodes">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AEEF" />
-</a>
+  <!-- GitHub Stats Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- GitHub Streak -->
+  <img height="180" src="https://streak-stats.demolab.com?user=rehmatcodemaster&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodemaster&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
